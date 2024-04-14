@@ -1,0 +1,24 @@
+.footer {
+    background-color:   rgb(64, 71, 87);
+    
+}
+.f1 {
+    text-align: center;
+    color:  rgb(231, 230, 230);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    padding-left: 60px;
+}
+ .sop {
+    color:rgb(255, 255, 255); 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.f2 {
+    text-align: center;
+    color:  rgb(231, 230, 230);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-left: 60px;
+}
